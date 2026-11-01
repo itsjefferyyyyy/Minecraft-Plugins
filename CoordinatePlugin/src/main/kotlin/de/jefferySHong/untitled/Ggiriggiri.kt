@@ -2,7 +2,7 @@ package de.jefferySHong.untitled
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class Untitled : JavaPlugin() {
+class Ggiriggiri : JavaPlugin() {
 
     lateinit var storage: CoordinateStorage
 
