@@ -1,0 +1,6 @@
+name: untitled
+version: '${version}'
+
+main: de.jefferySHong.untitled.Untitled
+api-version: '26.3'
+load: POSTWORLD
